@@ -1,5 +1,5 @@
---temp-output:C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\obj\Debug\netcoreapp1.0\
---out:C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\bin\Debug\netcoreapp1.0\Senserv.dll
+--temp-output:D:\Lynkio\src\Senserv\obj\Debug\netcoreapp1.0\
+--out:D:\Lynkio\src\Senserv\bin\Debug\netcoreapp1.0\Senserv.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -166,23 +166,23 @@
 --reference:C:\Users\cperez\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\cperez\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\cperez\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---reference:C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\bin\Debug\netstandard1.6\Lynkio.CoreFramework.dll
---resource:"C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\obj\Debug\netcoreapp1.0\Senservdotnet-compile.deps.json",Senserv.deps.json
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Program.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Publishers.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Startup.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Controllers\DataSourceController.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Controllers\ProductController.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Controllers\SensorController.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Events\ProductLogger.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Interfaces\IDataSource.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Interfaces\IProduct.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Interfaces\ISensor.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Model\EmailAddress.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Model\Product.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Model\Sensor.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Repository\DataSourceRepository.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Repository\ProductRepository.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Repository\SensorRepository.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Services\MailService.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Senserv\Services\TextMessageService.cs
+--reference:D:\Lynkio\src\Lynkio.CoreFramework\bin\Debug\netstandard1.6\Lynkio.CoreFramework.dll
+--resource:"D:\Lynkio\src\Senserv\obj\Debug\netcoreapp1.0\Senservdotnet-compile.deps.json",Senserv.deps.json
+D:\Lynkio\src\Senserv\Program.cs
+D:\Lynkio\src\Senserv\Publishers.cs
+D:\Lynkio\src\Senserv\Startup.cs
+D:\Lynkio\src\Senserv\Controllers\DataSourceController.cs
+D:\Lynkio\src\Senserv\Controllers\ProductController.cs
+D:\Lynkio\src\Senserv\Controllers\SensorController.cs
+D:\Lynkio\src\Senserv\Events\ProductLogger.cs
+D:\Lynkio\src\Senserv\Interfaces\IDataSource.cs
+D:\Lynkio\src\Senserv\Interfaces\IProduct.cs
+D:\Lynkio\src\Senserv\Interfaces\ISensor.cs
+D:\Lynkio\src\Senserv\Model\EmailAddress.cs
+D:\Lynkio\src\Senserv\Model\Product.cs
+D:\Lynkio\src\Senserv\Model\Sensor.cs
+D:\Lynkio\src\Senserv\Repository\DataSourceRepository.cs
+D:\Lynkio\src\Senserv\Repository\ProductRepository.cs
+D:\Lynkio\src\Senserv\Repository\SensorRepository.cs
+D:\Lynkio\src\Senserv\Services\MailService.cs
+D:\Lynkio\src\Senserv\Services\TextMessageService.cs

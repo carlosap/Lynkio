@@ -1,5 +1,5 @@
---temp-output:C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\obj\Debug\netstandard1.6\
---out:C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\bin\Debug\netstandard1.6\Lynkio.CoreFramework.dll
+--temp-output:D:\Lynkio\src\Lynkio.CoreFramework\obj\Debug\netstandard1.6\
+--out:D:\Lynkio\src\Lynkio.CoreFramework\bin\Debug\netstandard1.6\Lynkio.CoreFramework.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -77,35 +77,35 @@
 --reference:C:\Users\cperez\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\cperez\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\cperez\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Config.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Cache\CacheDisk.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Cache\CacheType.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Cache\MemCache.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\IDatabase.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\ServerType.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Histogram.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\HistogramClaims.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Networks.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\ProductClaims.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Products.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Roles.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\SensorClaims.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Sensors.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\SensorSettings.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\SqlServer.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\UserClaims.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\UserLogins.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\UserNetworks.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\UserRoles.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Users.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Email\SendGrid\SendGridEmail.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Extensions\DecimalExtensions.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Extensions\IEnumerableExtensions.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Extensions\ObjectExtensions.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Extensions\StreamExtensions.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Extensions\StringExtensions.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Extensions\UtilityRegExp.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Log\Log.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Log\LogType.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Properties\AssemblyInfo.cs
-C:\Users\cperez\Documents\Visual Studio 2015\Projects\Lynkio\src\Lynkio.CoreFramework\Queue\FixedQueue.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Config.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Cache\CacheDisk.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Cache\CacheType.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Cache\MemCache.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\IDatabase.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\ServerType.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Histogram.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\HistogramClaims.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Networks.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\ProductClaims.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Products.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Roles.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\SensorClaims.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Sensors.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\SensorSettings.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\SqlServer.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\UserClaims.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\UserLogins.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\UserNetworks.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\UserRoles.cs
+D:\Lynkio\src\Lynkio.CoreFramework\DataServer\SqlServer\Users.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Email\SendGrid\SendGridEmail.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Extensions\DecimalExtensions.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Extensions\IEnumerableExtensions.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Extensions\ObjectExtensions.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Extensions\StreamExtensions.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Extensions\StringExtensions.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Extensions\UtilityRegExp.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Log\Log.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Log\LogType.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Properties\AssemblyInfo.cs
+D:\Lynkio\src\Lynkio.CoreFramework\Queue\FixedQueue.cs
