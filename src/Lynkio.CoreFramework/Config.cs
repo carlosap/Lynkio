@@ -33,9 +33,9 @@ namespace Lynkio.CoreFramework
         {
             public static class SqlServerConnection
             {
-                public static readonly string DevConnectionString = "";
-                public static readonly string StagingConnectionString = "";
-                public static readonly string ConnectionString = "";
+                public static readonly string DevConnectionString = "Data Source=.;Initial Catalog=PMT;Integrated Security=True";
+                public static readonly string StagingConnectionString = "Data Source=.;Initial Catalog=PMT;Integrated Security=True";
+                public static readonly string ConnectionString = "Server=tcp:spartanjs.database.windows.net,1433;Database=EJPARSE;User ID=cperez@spartanjs;Password=Man6576tilla1;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
                 public static readonly int TimeOut = 20;
                 public static async Task<int> GetTimeOut() => await Task.Run(() => TimeOut);
                 public static async Task<string> GetConnectionString()
@@ -81,7 +81,7 @@ namespace Lynkio.CoreFramework
             public static class SendGrid
             {
                 public static readonly bool Enabled = false;
-                public static readonly string ApiKey = "XYZ";
+                public static readonly string ApiKey = "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";
                 public static readonly string FromName = "Sentech Systems";
                 public static readonly string From = "lynkio@donotreply.com";
                 public static readonly string Subject = "Sensor Notifications";
