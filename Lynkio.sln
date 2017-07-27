@@ -1,18 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{22F6D195-96B9-4692-A0F7-940A159FBAA6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{245EBFD3-0645-433F-8B56-29E38A7CF9FC}"
-	ProjectSection(SolutionItems) = preProject
-		global.json = global.json
-	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Senserv", "src\Senserv\Senserv.xproj", "{CBE4D090-5B5D-433D-B0C1-0782A013187E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senserv", "src\Senserv\Senserv.csproj", "{CBE4D090-5B5D-433D-B0C1-0782A013187E}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Lynkio.CoreFramework", "src\Lynkio.CoreFramework\Lynkio.CoreFramework.xproj", "{A6B07922-75E9-4FDE-9AE7-616BB5B718A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lynkio.CoreFramework", "src\Lynkio.CoreFramework\Lynkio.CoreFramework.csproj", "{A6B07922-75E9-4FDE-9AE7-616BB5B718A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,11 @@
+C:\code\Lynkio\src\Senserv\bin\Debug\netcoreapp1.0\Senserv.deps.json
+C:\code\Lynkio\src\Senserv\bin\Debug\netcoreapp1.0\Senserv.runtimeconfig.json
+C:\code\Lynkio\src\Senserv\bin\Debug\netcoreapp1.0\Senserv.runtimeconfig.dev.json
+C:\code\Lynkio\src\Senserv\bin\Debug\netcoreapp1.0\Senserv.dll
+C:\code\Lynkio\src\Senserv\bin\Debug\netcoreapp1.0\Senserv.pdb
+C:\code\Lynkio\src\Senserv\bin\Debug\netcoreapp1.0\Lynkio.CoreFramework.dll
+C:\code\Lynkio\src\Senserv\bin\Debug\netcoreapp1.0\Lynkio.CoreFramework.pdb
+C:\code\Lynkio\src\Senserv\obj\Debug\netcoreapp1.0\Senserv.csprojResolveAssemblyReference.cache
+C:\code\Lynkio\src\Senserv\obj\Debug\netcoreapp1.0\Senserv.AssemblyInfo.cs
+C:\code\Lynkio\src\Senserv\obj\Debug\netcoreapp1.0\Senserv.dll
+C:\code\Lynkio\src\Senserv\obj\Debug\netcoreapp1.0\Senserv.pdb

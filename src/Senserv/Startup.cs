@@ -12,8 +12,6 @@ namespace Senserv
             //--Publishers------
             Publishers = new Publishers();
             services.AddMvc();
-            services.AddSingleton<IProduct, ProductRepository>();
-            services.AddSingleton<ISensor, SensorRepository>();
             services.AddSingleton<IDataSource, DataSourceRepository>();
         }
 

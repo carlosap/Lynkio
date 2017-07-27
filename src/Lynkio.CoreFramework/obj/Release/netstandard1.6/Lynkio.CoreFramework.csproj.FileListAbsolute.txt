@@ -1,0 +1,7 @@
+C:\code\Lynkio\src\Lynkio.CoreFramework\bin\Release\netstandard1.6\Lynkio.CoreFramework.deps.json
+C:\code\Lynkio\src\Lynkio.CoreFramework\bin\Release\netstandard1.6\Lynkio.CoreFramework.dll
+C:\code\Lynkio\src\Lynkio.CoreFramework\bin\Release\netstandard1.6\Lynkio.CoreFramework.pdb
+C:\code\Lynkio\src\Lynkio.CoreFramework\obj\Release\netstandard1.6\Lynkio.CoreFramework.csprojResolveAssemblyReference.cache
+C:\code\Lynkio\src\Lynkio.CoreFramework\obj\Release\netstandard1.6\Lynkio.CoreFramework.AssemblyInfo.cs
+C:\code\Lynkio\src\Lynkio.CoreFramework\obj\Release\netstandard1.6\Lynkio.CoreFramework.dll
+C:\code\Lynkio\src\Lynkio.CoreFramework\obj\Release\netstandard1.6\Lynkio.CoreFramework.pdb
